@@ -22,6 +22,9 @@ public class MyPro {
 	 set.add(50);
 	 set.add(50);
 	 System.out.println(set);
+	 
+	 System.out.println("This is Velocity");
+	 
 	}
 
 }
