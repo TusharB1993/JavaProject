@@ -1,6 +1,7 @@
 package Velocity.java;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Set;
 
 public class MyPro {
@@ -17,7 +18,10 @@ public class MyPro {
 			System.out.println("Value== "+hashmap.get(i));
 			
 		}
-		
+	 HashSet set = new HashSet();
+	 set.add(50);
+	 set.add(50);
+	 System.out.println(set);
 	}
 
 }
